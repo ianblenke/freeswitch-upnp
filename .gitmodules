@@ -1,0 +1,9 @@
+[submodule "docker-igd"]
+	path = docker-igd
+	url = git@github.com:ianblenke/docker-igd.git
+[submodule "docker-miniupnpd"]
+	path = docker-miniupnpd
+	url = git@github.com:ianblenke/docker-miniupnpd.git
+[submodule "docker-minissdpd"]
+	path = docker-minissdpd
+	url = git@github.com:ianblenke/docker-minissdpd.git
