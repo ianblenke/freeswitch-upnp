@@ -6,3 +6,8 @@ There are submodules in this project. Be sure to initialize them first:
 
     git submodule update --init
 
+To test this, run:
+
+    docker-compose up
+
+If you don't have `docker-compose` yet, try `pip install docker-compose` first.
